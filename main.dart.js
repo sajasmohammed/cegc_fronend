@@ -43829,7 +43829,7 @@ $2:function(a,b){var s,r,q=null,p=J.aG(J.ja(this.a.b),b),o=J.ac(p),n=X.rX(C.bx,n
 i.toString
 s=K.a4(a).L.ch.bA(C.j)
 r=o.h(p,"projectStatus")
-return M.be(q,R.za(!1,!0,M.be(q,T.h2(C.aM,H.a([T.pN(20,M.be(q,L.aAH(Q.iR(H.a([Q.iR(q,K.a4(a).L.ch.bA(C.dN),r)],t.VO),s,"Status :  ")),C.l,q,q,new S.cp(i,q,q,j,q,q,C.Q),q,20,q,new V.ay(10,0,10,0),q,q,150),q,q,q,20,q,q),T.pN(q,U.afC(L.av("View More",q,q,q,K.a4(a).L.ch,q,q),new V.a8h(),q),q,q,q,20,20,q),T.Mv(L.av(o.h(p,"title"),q,q,q,K.a4(a).L.f.bA(C.j),C.Z,q),100)],t.p),C.aS),C.l,q,q,new S.cp(k,q,q,l,q,q,C.Q),q,1/0,q,q,q,q,1/0),q,!0,q,q,q,q,q,q,q,q,q,new V.a8i(a,p),q,q,q),C.l,q,q,new S.cp(q,n,q,m,q,q,C.Q),q,50,new V.ay(3.3333333333333335,3.3333333333333335,3.3333333333333335,3.3333333333333335),q,q,q,250)},
+return M.be(q,R.za(!1,!0,M.be(q,T.h2(C.aM,H.a([T.pN(20,M.be(q,L.aAH(Q.iR(H.a([Q.iR(q,K.a4(a).L.ch.bA(C.dN),r)],t.VO),s,"Status :  ")),C.l,q,q,new S.cp(i,q,q,j,q,q,C.Q),q,20,q,new V.ay(10,0,10,0),q,q,180),q,q,q,20,q,q),T.pN(q,U.afC(L.av("View More",q,q,q,K.a4(a).L.ch,q,q),new V.a8h(),q),q,q,q,20,20,q),T.Mv(L.av(o.h(p,"title"),q,q,q,K.a4(a).L.f.bA(C.j),C.Z,q),100)],t.p),C.aS),C.l,q,q,new S.cp(k,q,q,l,q,q,C.Q),q,1/0,q,q,q,q,1/0),q,!0,q,q,q,q,q,q,q,q,q,new V.a8i(a,p),q,q,q),C.l,q,q,new S.cp(q,n,q,m,q,q,C.Q),q,50,new V.ay(3.3333333333333335,3.3333333333333335,3.3333333333333335,3.3333333333333335),q,q,q,250)},
 $C:"$2",
 $R:2,
 $S:188}
@@ -43979,7 +43979,7 @@ $2:function(a,b){var s,r,q=null,p=J.aG(J.ja(this.a.b),b),o=J.ac(p),n=X.rX(C.bx,n
 i.toString
 s=K.a4(a).L.ch.bA(C.j)
 r=o.h(p,"projectStatus")
-return G.dM(M.be(q,R.za(!1,!0,M.be(q,T.h2(C.aM,H.a([T.pN(20,M.be(q,L.aAH(Q.iR(H.a([Q.iR(q,K.a4(a).L.ch.bA(C.dN),r)],t.VO),s,"Status :  ")),C.l,q,q,new S.cp(i,q,q,j,q,q,C.Q),q,20,q,new V.ay(10,0,10,0),q,q,150),q,q,q,20,q,q),T.pN(q,U.afC(L.av("View More",q,q,q,K.a4(a).L.ch,q,q),new G.a9v(a,p),q),q,q,q,20,20,q),T.Mv(L.av(o.h(p,"title"),q,q,q,K.a4(a).L.f.bA(C.j),C.Z,q),100)],t.p),C.aS),C.l,q,q,new S.cp(k,q,q,l,q,q,C.Q),q,1/0,q,q,q,q,1/0),q,!0,q,q,q,q,q,q,q,q,q,new G.a9w(a,p),q,q,q),C.l,q,q,new S.cp(q,n,q,m,q,q,C.Q),q,50,new V.ay(3.3333333333333335,3.3333333333333335,3.3333333333333335,3.3333333333333335),q,q,q,250),q,q)},
+return G.dM(M.be(q,R.za(!1,!0,M.be(q,T.h2(C.aM,H.a([T.pN(20,M.be(q,L.aAH(Q.iR(H.a([Q.iR(q,K.a4(a).L.ch.bA(C.dN),r)],t.VO),s,"Status :  ")),C.l,q,q,new S.cp(i,q,q,j,q,q,C.Q),q,20,q,new V.ay(10,0,10,0),q,q,180),q,q,q,20,q,q),T.pN(q,U.afC(L.av("View More",q,q,q,K.a4(a).L.ch,q,q),new G.a9v(a,p),q),q,q,q,20,20,q),T.Mv(L.av(o.h(p,"title"),q,q,q,K.a4(a).L.f.bA(C.j),C.Z,q),100)],t.p),C.aS),C.l,q,q,new S.cp(k,q,q,l,q,q,C.Q),q,1/0,q,q,q,q,1/0),q,!0,q,q,q,q,q,q,q,q,q,new G.a9w(a,p),q,q,q),C.l,q,q,new S.cp(q,n,q,m,q,q,C.Q),q,50,new V.ay(3.3333333333333335,3.3333333333333335,3.3333333333333335,3.3333333333333335),q,q,q,250),q,q)},
 $C:"$2",
 $R:2,
 $S:98}
